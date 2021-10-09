@@ -1,6 +1,7 @@
 # Photo-Magic
 
 ## Motivation
+Understand other methods of encryption using an array.
 
 ## Using Linear Feedback Shift Registers to Encrypt Images
 A linear feedback shift register stores a sequence of pseudo-random bits as a one-time pad for encryption. By using the exclusive-or operator, the one-time pad can be used to encrypt and then decrypt. In this project, the one-time pad will be used to encrypt an image then decrypt the image back to its original state.
